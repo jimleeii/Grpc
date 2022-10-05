@@ -1,0 +1,6 @@
+.vs
+GrpcGreater/bin
+GrpcGreater/obj
+GrpcGreater/publish
+GrpcGreeterClient/bin
+GrpcGreeterClient/obj
